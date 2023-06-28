@@ -1,2 +1,2 @@
 # Learning
-Repositório de estudo pessoal
+Repositório usado para estudos fora da escola
